@@ -3,8 +3,6 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from groq import Groq
-from dotenv import load_dotenv
-load_dotenv()
 import os
 import json
 
