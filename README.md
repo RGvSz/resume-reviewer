@@ -19,7 +19,7 @@ uvicorn main:app --reload
 
 Open http://localhost:8000 in your browser. That's it!
 
-## Deploy to Vercel (Free)
+## Deploy to Vercel 
 
 ### 1. Push to GitHub
 git init
@@ -35,14 +35,3 @@ git push -u origin main
 4. Click Deploy
 
 Your app will be live at yourapp.vercel.app in 2 minutes!
-
-## Monetization
-- Offer 3 free reviews/month
-- Charge ₹299/month for unlimited reviews
-- Add payments via Gumroad or Lemon Squeezy
-
-## Tech Stack
-- Backend: Python + FastAPI
-- Frontend: HTML/CSS/JS
-- AI: Groq API (llama-3.3-70b-versatile) — free, no credit card
-- Hosting: Vercel (free)
